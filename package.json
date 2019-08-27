@@ -1,0 +1,22 @@
+{
+   "name": "apollo-server-realworld-example",
+   "version": "0.0.1",
+   "description": "Awesome project developed with TypeORM.",
+   "devDependencies": {
+      "@graphql-codegen/cli": "^1.6.1",
+      "@types/node": "^8.0.29",
+      "ts-node": "3.3.0",
+      "typescript": "3.3.3333",
+      "@graphql-codegen/typescript": "1.6.1"
+   },
+   "dependencies": {
+      "apollo-server": "^2.9.0",
+      "mongodb": "^3.0.8",
+      "reflect-metadata": "^0.1.10",
+      "typeorm": "0.2.18"
+   },
+   "scripts": {
+      "start": "ts-node src/index.ts",
+      "generate": "graphql-codegen --config codegen.yml"
+   }
+}
