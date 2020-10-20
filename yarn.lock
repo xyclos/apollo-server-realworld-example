@@ -164,16 +164,6 @@
     import-from "3.0.0"
     tslib "1.10.0"
 
-"@graphql-codegen/typescript-resolvers@1.6.1":
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/@graphql-codegen/typescript-resolvers/-/typescript-resolvers-1.6.1.tgz#c10cee243f5e9c99d08193bc65704017c6012bf7"
-  integrity sha512-JE9KkYZoxoCYelqttrIWkfIwkgCXPh5Wnjyd/nOIp/gX3H12cj+S4CcEmn1OAxjLxc01Qv38BPeVsu++Zr02lQ==
-  dependencies:
-    "@graphql-codegen/plugin-helpers" "1.6.1"
-    "@graphql-codegen/typescript" "1.6.1"
-    "@graphql-codegen/visitor-plugin-common" "1.6.1"
-    tslib "1.10.0"
-
 "@graphql-codegen/typescript@1.6.1":
   version "1.6.1"
   resolved "https://registry.yarnpkg.com/@graphql-codegen/typescript/-/typescript-1.6.1.tgz#14cebdd2a7c9fca2dcd882dba1b079cdb6c3af30"
@@ -2348,9 +2338,9 @@ object-keys@^1.0.12:
   integrity sha512-NuAESUOUMrlIXOfHKzD6bpPu3tYt3xvjNdRIQ+FeT0lNb4K8WR70CaDxhuNguS2XG+GjkyMwOzsN5ZktImfhLA==
 
 object-path@^0.11.4:
-  version "0.11.4"
-  resolved "https://registry.yarnpkg.com/object-path/-/object-path-0.11.4.tgz#370ae752fbf37de3ea70a861c23bba8915691949"
-  integrity sha1-NwrnUvvzfePqcKhhwju6iRVpGUk=
+  version "0.11.5"
+  resolved "https://registry.yarnpkg.com/object-path/-/object-path-0.11.5.tgz#d4e3cf19601a5140a55a16ad712019a9c50b577a"
+  integrity sha512-jgSbThcoR/s+XumvGMTMf81QVBmah+/Q7K7YduKeKVWL7N111unR2d6pZZarSk6kY/caeNxUDyxOvMWyzoU2eg==
 
 object.getownpropertydescriptors@^2.0.3:
   version "2.0.3"
